@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Cinema";
+    src: url("/assets/webfonts/cinema.ttf") format("truetype");
+}
+.texto1 {
+    font-family: "Cinema", cursive;
+}
+.fondo-rojo {
+    background-color: #bc0005;
+}
