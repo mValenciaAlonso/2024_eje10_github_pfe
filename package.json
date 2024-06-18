@@ -1,0 +1,17 @@
+{
+  "name": "10_github",
+  "version": "0.0.1",
+  "description": "Clase de Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "Javascript",
+    "html",
+    "css"
+  ],
+  "author": "iomismo",
+  "license": "MIT"
+}
